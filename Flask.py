@@ -16,3 +16,5 @@ if __name__ == "__main__":
     app.run(debug=True)
 
 # after running this server, what ever changes you do and save the file, the data will be auto updated in the webpage (ie http://localhost:5000/api). 5000 is the default port for flask
+
+
